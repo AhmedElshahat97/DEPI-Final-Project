@@ -17,15 +17,20 @@
 Data Sources Used:
 
 - Palestine Conflict (2000–2023):
-UN OCHA[https://www.ochaopt.org/data/casualties]
-B'Tselem[https://statistics.btselem.org/en/all-fatalities/by-date-of-incident?tab=overview]
+[UN OCHA]([https://www.ochaopt.org/data/casualties])
+[B'Tselem]([https://statistics.btselem.org/en/all-fatalities/by-date-of-incident?tab=overview])
 
 - Palestine Casualties (7 Oct 2023 – 6 Oct 2024):
-Tech for Palestine[https://data.techforpalestine.org/docs/datasets/]
-Al Jazeera[https://www.aljazeera.com/news/longform/2024/10/8/one-year-of-israels-war-on-gaza-by-the-numbers]
+[Tech for Palestine]([https://data.techforpalestine.org/docs/datasets/])
+[Al Jazeera]([https://www.aljazeera.com/news/longform/2024/10/8/one-year-of-israels-war-on-gaza-by-the-numbers])
 
 - Irish Conflict (1969–2005):
-CAIN Web Service, Laurence McKeown[https://cain.ulster.ac.uk/sutton/tables/index.html]
+[CAIN Web Service, Laurence McKeown]([https://cain.ulster.ac.uk/sutton/tables/index.html])
+
+
+
+
+
 
 ### 2. Data Cleaning and Transformation
 
