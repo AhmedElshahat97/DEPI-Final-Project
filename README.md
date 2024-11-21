@@ -4,6 +4,9 @@
 
 ### Palestinian & Israeli conflict Analysis
 
+[Final Project - DEPI.pdf](https://github.com/user-attachments/files/17844790/Final.Project.-.DEPI.pdf)
+
+
 ## Project Objectives
 
 - Analyze and visualize fatalities in the Israeli-Palestinian conflict (2000–2023) and recent events in Palestine (October 2023–October 2024).
@@ -28,6 +31,7 @@ Data Sources Used:
 [CAIN Web Service, Laurence McKeown](https://cain.ulster.ac.uk/sutton/tables/index.html)
 
 
+[Data_Source_and_Semantic_Model.pdf](https://github.com/user-attachments/files/17844800/Data_Source_and_Semantic_Model.pdf)
 
 
 
