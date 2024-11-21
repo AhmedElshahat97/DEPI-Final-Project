@@ -5,7 +5,7 @@
 ### Palestinian & Israeli conflict Analysis
 
 
-[![PDF Preview](pdf-preview.png)](Final Project Presentation - DEPI.pdf)
+[![PDF Preview](pdf-preview.png)](Final-Project-Presentation-DEPI.pdf)
 
 
 
