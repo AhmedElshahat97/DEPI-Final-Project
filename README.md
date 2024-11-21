@@ -8,11 +8,6 @@
 [![PDF Preview](pdf-preview.png)](Final-Project-Presentation-DEPI.pdf)
 
 
-
-[Final Project - DEPI.pdf](https://drive.google.com/file/d/19Q-7bQhPiVf3mrrFiIjaL0a60inuom73/view?usp=drive_link)
-
-
-
 ## Project Objectives
 
 - Analyze and visualize fatalities in the Israeli-Palestinian conflict (2000–2023) and recent events in Palestine (October 2023–October 2024).
@@ -37,15 +32,11 @@ Data Sources Used:
 [CAIN Web Service, Laurence McKeown](https://cain.ulster.ac.uk/sutton/tables/index.html)
 
 
-[Data_Source_and_Semantic_Model.pdf](https://github.com/user-attachments/files/17844800/Data_Source_and_Semantic_Model)
-
-
-
 
 ### 2. Data Cleaning and Transformation
 
 Palestine Datasets:
-- Standardized date formats for consistent time-series analysis.
+- Standardized data formats for consistent time-series analysis.
 - Merged multiple datasets (UN OCHA and B’Tselem) to avoid redundancy.
 - Consolidated columns like "casualty type," "region," and "age group" for easier comparison.
 
