@@ -4,7 +4,7 @@
 
 ### Palestinian & Israeli conflict Analysis
 
-[Final Project - DEPI.pdf]([https://github.com/user-attachments/files/17844790/Final.Project.-.DEPI](https://drive.google.com/file/d/19Q-7bQhPiVf3mrrFiIjaL0a60inuom73/view?usp=drive_link))
+[Final Project - DEPI.pdf](https://drive.google.com/file/d/19Q-7bQhPiVf3mrrFiIjaL0a60inuom73/view?usp=drive_link)
 
 
 
