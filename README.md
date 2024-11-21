@@ -4,7 +4,7 @@
 
 ### Palestinian & Israeli conflict Analysis
 
-[Final Project - DEPI.pdf](https://github.com/user-attachments/files/17844790/Final.Project.-.DEPI.pdf)
+[Final Project - DEPI.pdf](https://github.com/user-attachments/files/17844790/Final.Project.-.DEPI)
 
 
 ## Project Objectives
@@ -31,7 +31,7 @@ Data Sources Used:
 [CAIN Web Service, Laurence McKeown](https://cain.ulster.ac.uk/sutton/tables/index.html)
 
 
-[Data_Source_and_Semantic_Model.pdf](https://github.com/user-attachments/files/17844800/Data_Source_and_Semantic_Model.pdf)
+[Data_Source_and_Semantic_Model.pdf](https://github.com/user-attachments/files/17844800/Data_Source_and_Semantic_Model)
 
 
 
